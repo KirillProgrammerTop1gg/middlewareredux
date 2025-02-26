@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/middlewareredux/static/css/main.f855e6bc.css",
+    "main.js": "/middlewareredux/static/js/main.0d51dee6.js",
+    "index.html": "/middlewareredux/index.html",
+    "main.f855e6bc.css.map": "/middlewareredux/static/css/main.f855e6bc.css.map",
+    "main.0d51dee6.js.map": "/middlewareredux/static/js/main.0d51dee6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0d51dee6.js"
+  ]
+}
